@@ -85,6 +85,8 @@ def seconf_task_array():
 # Для вычисления квадратного корня воспользуйтесь функцией sqrt() модуля math:
 # import math
 # math.sqrt(4) - вычисляет корень числа
+
+
 from math import sqrt
 def calc():
     a,b,c=0,0,0
